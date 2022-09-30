@@ -1,0 +1,4 @@
+#!/bin/bash
+wget https://deploy.laion.ai/8f83b608504d46bb81708ec86e912220/embeddings/img_emb/img_emb_0.npy -O laion_data/img_emb_0.npy
+wget https://deploy.laion.ai/8f83b608504d46bb81708ec86e912220/embeddings/metadata/metadata_0.parquet -O laion_data/metadata_0.parquet
+wget https://deploy.laion.ai/8f83b608504d46bb81708ec86e912220/embeddings/text_emb/text_emb_0.npy -O laion_data/text_emb_0.npy
