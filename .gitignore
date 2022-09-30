@@ -1,2 +1,6 @@
 laion_data/*
 !laion_data/.gitkeep
+searcher/*
+!searcher/.gitkeep
+**/__pycache__/
+matches/
